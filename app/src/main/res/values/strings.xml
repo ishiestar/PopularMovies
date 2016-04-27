@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="this_week">Movies released this week:</string>
+    <string name="next_change">Next change:</string>
+    <string name="top_ten">Top 10 movies:</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search_actor">Search actors by name</string>
+    <string name="search_movie">Search movies by movie name</string>
+    <string name="search_year">Search movies by year of release</string>
+    <string name="search_prompt">Enter search term</string>
+</resources>
