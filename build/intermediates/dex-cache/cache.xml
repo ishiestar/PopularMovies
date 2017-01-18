@@ -2,116 +2,130 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
         jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_e7db547b089ffd8b92b4b9a64554909789b71dbc/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/gson-2.6.1_e7db547b089ffd8b92b4b9a64554909789b71dbc.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.1_4b31b121515ed2a31c1e09e54c68e264c5c49a73/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e16bf9b9f372d4f378c9bc86231e4785457e7220/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_a9dfa10984e38a6e40f54cf95778eeb782d3ddfc/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_9bcb19e84e7ce623096597b74059a525a8051c3c/classes.dex" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_4cb4c3da09f0fddf3420a4abd1810898d5048dcb/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_4cb4c3da09f0fddf3420a4abd1810898d5048dcb.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.1_b2dc8d6fd37f3bf986c4fb30fbdedef0597b3111/classes.dex" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1ff7f9517ec69d76bd1b3f7f0138a5ae501941a9/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_1ff7f9517ec69d76bd1b3f7f0138a5ae501941a9.jar" />
     </item>
     <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_31ad14f0bd8746ebbb0d7c3cbf88c5dbbfb33a52/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_31ad14f0bd8746ebbb0d7c3cbf88c5dbbfb33a52.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_acf753e72a6d0fecfdd1943fe6958ad559e96e93/classes.dex" />
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_a9dfa10984e38a6e40f54cf95778eeb782d3ddfc.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/ishitasinha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_107c9fa372eab0677031fe9710654ff200ea9e23/classes.dex" />
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_9bcb19e84e7ce623096597b74059a525a8051c3c.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/retrofit-2.0.1_b2dc8d6fd37f3bf986c4fb30fbdedef0597b3111.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_afb26a37a9c1fc37f288173455d517c014c13f1a/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_afb26a37a9c1fc37f288173455d517c014c13f1a.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_e0d5a5cdea3c903ff6109f8afd0cfa9bb57b6c4e/classes.dex" />
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_4b31b121515ed2a31c1e09e54c68e264c5c49a73.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="48c4f3b4f05fbd3c995bb7a895f3d0cb7408f5dc">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a3aa6febd2b94b9aa92982c7fb6736972f940f4/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="afdcbe663cd262309c232fd112a24de853f7dd7e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9bc87a1645b8770d33fa8dc6df27acc550dec53/classes.dex" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_433d0641e9d34fdb13eec480443d1ba8539256e1/classes.dex" />
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_433d0641e9d34fdb13eec480443d1ba8539256e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_acf753e72a6d0fecfdd1943fe6958ad559e96e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/okio-1.6.0_107c9fa372eab0677031fe9710654ff200ea9e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_e0d5a5cdea3c903ff6109f8afd0cfa9bb57b6c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_e16bf9b9f372d4f378c9bc86231e4785457e7220.jar" />
     </item>
 
 </items>
